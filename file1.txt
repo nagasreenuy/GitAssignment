@@ -1,1 +1,3 @@
-file added in Master branch
+<<<<<<< file added in Master branch
+File in New Feature Branch
+>>>>>>> NewFeature
